@@ -1,8 +1,11 @@
 # Human Dictionary
-Game of vocabulary
 
-concept
-it's a solo mod from the party game "Bomb Party"
+## Game of vocabulary
 
-dictionnary sources
-english : https://github.com/dwyl/english-words
+### Concept
+
+It's a solo mod from the party game "Bomb Party"
+
+### Dictionary sources
+
+english : <https://github.com/dwyl/english-words>
